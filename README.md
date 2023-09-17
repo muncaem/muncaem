@@ -1,5 +1,5 @@
 <p align="center">
-<b>* Hello, I am a Unity and Android developer *</b></p>
+<b>* Hello, I am the developer of Unity and Android *</b></p>
 
 <!--
 **muncaem/muncaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
