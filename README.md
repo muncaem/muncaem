@@ -1,9 +1,5 @@
 <p align="center">
-<b>* Welcome to muncaem's Hub *</b></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+<b>* Hello, I am a Unity and Android developer *</b></p>
 
 <!--
 **muncaem/muncaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
