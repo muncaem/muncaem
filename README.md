@@ -2,8 +2,12 @@
 <b>* Hello, I'm a Game Client Programmer ! *</b></p>
 
 👉 [서울우먼테크해커톤 | 시각장애인 복약관리 서비스 - "보약" | 대상 ](https://github.com/SWH-FortuneCookie)
+
 👉 [서울여자대학교 소프트웨어융합학과 프로젝트종합설계 | 유니티 게임 엔진을 통한 CallPhobia 극복 솔루션 시스템 ](https://github.com/muncaem/Hello..) 개발 중
+
 👉 [서울여자대학교 디지털미디어학과 캡스톤디자인설계 | 언리얼 엔진을 통한 3D 3인칭 생존 서바이벌 게임 ] 개발 중
+
+
 
 
 ⚡2022 ~ 2024 서울여자대학교 디지털미디어학과 소학회 게임 제작 소학회 DISSION 창설, 운영 및 게임 클라이언트 개발 참여
@@ -12,8 +16,10 @@
 - [언리얼 3D 생존형 디펜스 게임](https://github.com/intheWorldRoi/teethDefence)
 - [유니티 3D 동양풍 RPG 게임](https://github.com/Comedianz/MainRepo)
 
+
 ⚡2024.02.17 ~ 2024.07.27 전국 게임개발 연합동아리 GameMakers 8기 게임 클라이언트 개발자 참여
 - [유니티 2D 로크라이크 슈팅 게임](https://github.com/CircusCircuit/CircusCircuit)
+
 
 ⚡Side Projects
 - [유니티 2D 스토리 기반 추리 게임]
