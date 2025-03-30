@@ -1,6 +1,8 @@
 <p align="center">
-<b>* Hello, I'm a Game Client Programmer ! *</b></p>
+<b>* Hello, I'm a Game Client Programmer ! *</b></p>  
+
 ___
+
 
 👉 [서울우먼테크해커톤 | 시각장애인 복약관리 서비스 - "보약" | 대상 ](https://github.com/SWH-FortuneCookie)
 
