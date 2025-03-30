@@ -25,9 +25,9 @@ ___
 ___
 
 ⚡Side Projects
-- [유니티 2D 스토리 기반 추리 게임]
-- [유니티 2D 아포칼립스 turn-based 전략게임]
 - 2024.07.11 출시 [유니티 3D 스토리 기반 방탈출 게임](https://store.steampowered.com/app/2916970/_/)
+- 유니티 2D 스토리 기반 추리 게임
+- 유니티 2D 아포칼립스 turn-based 전략게임
 
 <!--
 **muncaem/muncaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
