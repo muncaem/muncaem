@@ -1,5 +1,5 @@
 <p align="center">
-<b>* Hello, I'm a Game Client Programmer, Chaemin Moon ! *</b></p>  
+<b>* Hello, I'm a Game Client Programmer, Chaemin Moon *</b></p>  
 
 ___
 
