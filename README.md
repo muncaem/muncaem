@@ -1,7 +1,7 @@
 <p align="center">
 <b>* HI *</b></p>
 
-👉 [서울우먼테크해커톤 | 시각장애인 복약관리 서비스 - "보약" | 대상 ](https://github.com/SWH-FortuneCookie/.github.git)
+👉 [서울우먼테크해커톤 | 시각장애인 복약관리 서비스 - "보약" | 대상 ](https://github.com/SWH-FortuneCookie)
 <!--
 **muncaem/muncaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
