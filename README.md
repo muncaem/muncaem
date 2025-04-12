@@ -25,7 +25,7 @@ ___
 ___
 
 ⚡Side Projects
-- <b>2024.07.11 Steam 출시</b> [유니티 3D 스토리 기반 방탈출 게임](https://store.steampowered.com/app/2916970/_/)
+- <b>2024.07.11 Steam 출시</b> [유니티 3D 스토리 기반 방탈출 게임 - 사설탐정 프리즈](https://store.steampowered.com/app/2916970/_/)
 - 유니티 2D 스토리 기반 추리 게임
 - 유니티 2D 아포칼립스 turn-based 전략게임
 
