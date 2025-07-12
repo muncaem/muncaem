@@ -28,6 +28,7 @@ ___
 - <b>2024.07.11 Steam 출시</b> [유니티 3D 스토리 기반 방탈출 게임 - 사설탐정 프리즈](https://store.steampowered.com/app/2916970/_/)
 - 유니티 2D 스토리 기반 추리 게임
 - 유니티 2D 아포칼립스 turn-based 전략게임
+- 유니티 2D 픽셀 로그라이크 게임 개발 중
 
 <!--
 **muncaem/muncaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
