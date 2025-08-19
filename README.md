@@ -6,7 +6,7 @@ ___
 
 👉 [서울우먼테크해커톤 | 시각장애인 복약관리 서비스 - "보약" | 대상 ](https://github.com/SWH-FortuneCookie)
 
-👉 [서울여자대학교 소프트웨어융합학과 프로젝트종합설계 | 유니티 게임 엔진을 통한 CallPhobia 극복 솔루션 시스템 ](https://github.com/muncaem/Hello..)
+👉 [서울여자대학교 소프트웨어융합학과 프로젝트종합설계 | 유니티 게임 엔진, GPT API를 통한 CallPhobia 극복 솔루션 시스템 ](https://github.com/muncaem/Hello..)
 
 👉 [서울여자대학교 디지털미디어학과 캡스톤디자인설계 | 언리얼 게임 엔진을 통한 3D 3인칭 생존 서바이벌 게임](https://github.com/Chill-z) 개발 중  
 
