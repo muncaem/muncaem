@@ -4,32 +4,33 @@
 ___
 
 ⚡2025 개발 중 Projects
-👉 [서울여자대학교 디지털미디어학과 캡스톤디자인설계 | 언리얼 게임 엔진을 통한 3D 3인칭 생존 서바이벌 게임](https://github.com/Chill-z) 개발 중  
-👉 유니티 2D 픽셀 로그라이크 게임 개발 중
+
+👉 [서울여자대학교 디지털미디어학과 캡스톤디자인설계 | Unreal 3D 3인칭 생존 서바이벌 게임](https://github.com/Chill-z) 개발 중  
+👉 Unity 2D 픽셀 캐주얼 로그라이크 게임 개발 중
 
 ___
 
 ⚡졸업 프로젝트 및 공모전 수상
-- [서울여자대학교 소프트웨어융합학과 프로젝트종합설계 | 유니티 게임 엔진, GPT API를 통한 CallPhobia 극복 솔루션 시스템 ](https://github.com/muncaem/Hello..)
-- [서울우먼테크해커톤 | 시각장애인 복약관리 서비스 - "보약" | 대상 ](https://github.com/SWH-FortuneCookie)
+- [서울여자대학교 소프트웨어융합학과 프로젝트종합설계 | Unity, GPT API를 통한 CallPhobia 극복 솔루션 시스템 ](https://github.com/muncaem/Hello..)
+- [2023 서울우먼테크해커톤 | Android 시각장애인 복약관리 서비스 - "보약" | 대상 ](https://github.com/SWH-FortuneCookie)
 
 ___
 
 ⚡2022 ~ 2024 서울여자대학교 디지털미디어학과 게임 제작 소학회 DISSION 창설, 운영 및 게임 클라이언트 개발 참여
-- [유니티 2D 방탈출 게임](https://github.com/muncaem/paranoia)
-- [유니티 2D 캐주얼 게임](https://github.com/muncaem/Street_Cat_Fighter)
-- [언리얼 3D 생존형 디펜스 게임](https://github.com/intheWorldRoi/teethDefence)
-- [유니티 3D 동양풍 RPG 게임](https://github.com/Comedianz/MainRepo)  
+- [Unity 2D 방탈출 게임](https://github.com/muncaem/paranoia)
+- [Unity 2D 캐주얼 게임](https://github.com/muncaem/Street_Cat_Fighter)
+- [Unreal 3D 생존형 디펜스 게임](https://github.com/intheWorldRoi/teethDefence)
+- [Unity 3D 동양풍 RPG 게임](https://github.com/Comedianz/MainRepo)  
 ___
 
 ⚡2024.02.17 ~ 2024.07.27 전국 게임개발 연합동아리 GameMakers 8기 게임 클라이언트 개발자 참여
-- [유니티 2D 로크라이크 슈팅 게임](https://github.com/CircusCircuit/CircusCircuit)  
+- [Unity 2D 로크라이크 슈팅 게임](https://github.com/CircusCircuit/CircusCircuit)  
 ___
 
 ⚡Side Projects
-- <b>2024.07.11 Steam 출시</b> [유니티 3D 스토리 기반 방탈출 게임 - 사설탐정 프리즈](https://store.steampowered.com/app/2916970/_/)
-- 유니티 2D 스토리 기반 추리 게임
-- 유니티 2D 아포칼립스 turn-based 전략게임
+- <b>2024.07.11 Steam 출시</b> [Unity 3D 스토리 기반 방탈출 게임 - 사설탐정 프리즈](https://store.steampowered.com/app/2916970/_/)
+- Unity 2D 스토리 기반 추리 게임
+- Unity 2D 아포칼립스 turn-based 전략게임
 
 <!--
 **muncaem/muncaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
