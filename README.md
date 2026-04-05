@@ -3,34 +3,34 @@
 
 ___
 
-⚡2025 개발 중 Projects
+⚡Present Projects
 
-👉 [서울여자대학교 디지털미디어학과 캡스톤디자인설계 | Unreal 3D 3인칭 생존 서바이벌 게임](https://github.com/Chill-z) 개발 중  
-👉 Unity 2D 픽셀 캐주얼 로그라이크 게임 개발 중
-
-___
-
-⚡졸업 프로젝트 및 공모전 수상
-- [서울여자대학교 소프트웨어융합학과 프로젝트종합설계 | Unity, GPT API를 통한 CallPhobia 극복 솔루션 시스템 ](https://github.com/muncaem/Hello..)
-- [2023 서울우먼테크해커톤 | Android 시각장애인 복약관리 서비스 - "보약" | 대상 ](https://github.com/SWH-FortuneCookie)
+👉 [Unreal 3D pro-social Survival Game](https://github.com/Chill-z)  
+👉 Unity 2D Pixel Casual Roguelike Game
 
 ___
 
-⚡2022 ~ 2024 서울여자대학교 디지털미디어학과 게임 제작 소학회 DISSION 창설, 운영 및 게임 클라이언트 개발 참여
-- [Unity 2D 방탈출 게임](https://github.com/muncaem/paranoia)
-- [Unity 2D 캐주얼 게임](https://github.com/muncaem/Street_Cat_Fighter)
-- [Unreal 3D 생존형 디펜스 게임](https://github.com/intheWorldRoi/teethDefence)
-- [Unity 3D 동양풍 RPG 게임](https://github.com/Comedianz/MainRepo)  
+⚡Graduation Projects and A prize in a contest
+- [Seoul Women's University Graduation Project | Unity, Call Phobia Overcoming System through GPT API](https://github.com/muncaem/Hello..)
+- [2023 Seoul Women Tech Hackathon | Android, Medication management services for the visually impaired - "보약" | 1st Prize ](https://github.com/SWH-FortuneCookie)
+
 ___
 
-⚡2024.02.17 ~ 2024.07.27 전국 게임개발 연합동아리 GameMakers 8기 게임 클라이언트 개발자 참여
-- [Unity 2D 로크라이크 슈팅 게임](https://github.com/CircusCircuit/CircusCircuit)  
+⚡2022 ~ 2024 Seoul Women's University's Digital Media Department Game Production Association 'DISSION' was established, operated, and participated in the development of game clients
+- [Unity 2D Room Escape Game](https://github.com/muncaem/paranoia)
+- [Unity 2D Casual Game](https://github.com/muncaem/Street_Cat_Fighter)
+- [Unreal 3D Survival Defense Game](https://github.com/intheWorldRoi/teethDefence)
+- [Unity 3D Eastern style RPG Game](https://github.com/Comedianz/MainRepo)  
+___
+
+⚡2024.02.17 ~ 2024.07.27 National Game Development Association Club 'GameMakers' 8th Game Client Developer Participation
+- [Unity 2D Roguelike Shooting Game](https://github.com/CircusCircuit/CircusCircuit)  
 ___
 
 ⚡Side Projects
-- <b>2024.07.11 Steam 출시</b> [Unity 3D 스토리 기반 방탈출 게임 - 사설탐정 프리즈](https://store.steampowered.com/app/2916970/_/)
-- Unity 2D 스토리 기반 추리 게임
-- Unity 2D 아포칼립스 turn-based 전략게임
+- <b>2024.07.11 Steam Released</b> [Unity 3D Story-based Room Escape Game - Private Detective Freeze](https://store.steampowered.com/app/2916970/_/)
+- Unity 2D Story-based mystery game
+- Unity 2D Apocalypse Turn-Based Strategy Game
 
 <!--
 **muncaem/muncaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
