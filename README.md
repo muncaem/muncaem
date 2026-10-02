@@ -14,6 +14,7 @@ My experience includes AI and gameplay architecture, state management, performan
 - Integrated AI state logic with Unreal Engine Animation Blueprints.
 - Developed gameplay systems including interaction, inventory, and UI.
 - Contributed to the project's research paper and technical documentation.
+- Production code is private; related Unreal C++ learning and prototyping work is available in [UnrealTaster](https://github.com/muncaem/UnrealTaster).
 
 ### [Private Detective: Freeze](https://store.steampowered.com/app/2916970/_/) — Unity / C#
 **Commercial Steam Release | July 2024**
