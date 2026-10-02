@@ -3,7 +3,7 @@
 **Gameplay / Software Developer** based in Vancouver, Canada.
 
 I build gameplay systems and interactive applications using **C++, C#, Unreal Engine, and Unity**.  
-My experience includes AI and gameplay architecture, state management, performance optimization, extending existing codebases, and contributing to a commercially released Steam title.
+My experience includes AI and gameplay architecture, state management, performance optimization, extending existing codebases and contributing to a commercially released Steam title.
 
 ## Featured Projects
 
