@@ -1,48 +1,54 @@
-<p align="center">
-<b>* Hello, I'm a Game Client Programmer, Chaemin Moon *</b></p>  
+# Hi, I'm Chaemin Moon 👋
 
-___
+**Gameplay / Software Developer** based in Vancouver, Canada.
 
-⚡Present Projects
+I build gameplay systems and interactive applications using **C++, C#, Unreal Engine, and Unity**.  
+My experience includes AI and gameplay architecture, state management, performance optimization, extending existing codebases, and contributing to a commercially released Steam title.
 
-👉 [Unreal 3D pro-social Survival Game](https://github.com/Chill-z)  
-👉 Unity 2D Pixel Casual Roguelike Game
+## Featured Projects
 
-___
+### BUNKERAT — Unreal Engine 5.5 / C++
+**Gameplay AI & Systems | Bronze Prize — 2025 Global Game Challenge**
+- Designed an FSM architecture for NPC behavior.
+- Built a mediator architecture to resolve conflicting state-transition requests from independent vision and hearing components.
+- Integrated AI state logic with Unreal Engine Animation Blueprints.
+- Developed gameplay systems including interaction, inventory, and UI.
+- Contributed to the project's research paper and technical documentation.
 
-⚡Graduation Projects and A prize in a contest
-- [Seoul Women's University Graduation Project | Unity, Call Phobia Overcoming System through GPT API](https://github.com/muncaem/Hello..)
-- [2023 Seoul Women Tech Hackathon | Android, Medication management services for the visually impaired - "보약" | 1st Prize ](https://github.com/SWH-FortuneCookie)
+### [Private Detective: Freeze](https://store.steampowered.com/app/2916970/_/) — Unity / C#
+**Commercial Steam Release | July 2024**
+- Contributed as the sole programmer on a seven-person cross-functional independent team.
+- Analyzed and extended an inherited codebase while reusing stable components.
+- Developed inventory, UI, multi-stage progression, and state persistence across scenes.
+- Collaborated with designers and artists to deliver a stable public release.
 
-___
+### [StreetCatFighter](https://github.com/muncaem/Street_Cat_Fighter) — Unity / C#
+**Mobile Gameplay & Performance Optimization**
+- Built a generic object pooling system for frequently spawned objects.
+- Implemented proximity-based activation and spawning to reduce unnecessary processing.
+- Created a data-driven configuration workflow using ScriptableObjects.
+- Showcased at Smilegate Indie Game Festival 2025 — BeaverRocks.
 
-⚡2022 ~ 2024 Seoul Women's University's Digital Media Department Game Production Association 'DISSION' was established, operated, and participated in the development of game clients
-- [Unity 2D Room Escape Game](https://github.com/muncaem/paranoia)
-- [Unity 2D Casual Game](https://github.com/muncaem/Street_Cat_Fighter)
-- [Unreal 3D Survival Defense Game](https://github.com/intheWorldRoi/teethDefence)
-- [Unity 3D Eastern style RPG Game](https://github.com/Comedianz/MainRepo)  
-___
+### [Hello..?](https://github.com/muncaem/Hello..) — Unity / C#
+**AI-Integrated Communication Application**
+- Designed an event-driven C# architecture using delegates and callbacks.
+- Implemented communication between a Unity client and a Python backend.
+- Integrated Speech-to-Text, GPT API, and Text-to-Speech services.
+- Built a dynamic conversation workflow based on topics, user objectives, and character roles.
 
-⚡2024.02.17 ~ 2024.07.27 National Game Development Association Club 'GameMakers' 8th Game Client Developer Participation
-- [Unity 2D Roguelike Shooting Game](https://github.com/CircusCircuit/CircusCircuit)  
-___
+## Tech
 
-⚡Side Projects
-- <b>2024.07.11 Steam Released</b> [Unity 3D Story-based Room Escape Game - Private Detective Freeze](https://store.steampowered.com/app/2916970/_/)
-- Unity 2D Story-based mystery game
-- Unity 2D Apocalypse Turn-Based Strategy Game
+**Languages:** C++, C#, Java  
+**Engines & Tools:** Unreal Engine 5.5, Unity, Git, Android Studio  
+**Concepts:** Object-Oriented Programming, Finite State Machines, Event-Driven Architecture, Object Pooling, Data-Driven Design, State Management
 
-<!--
-**muncaem/muncaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Highlights
 
-Here are some ideas to get you started:
+- 🎮 Commercial Steam Release — *Private Detective: Freeze*
+- 🥉 Bronze Prize — 2025 Global Game Challenge
+- 🏆 Grand Prize (Seoul Mayor's Award) — 2023 Seoul Women Tech Hackathon
+- 📄 Published game research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+
+- [Steam Release — Private Detective: Freeze](https://store.steampowered.com/app/2916970/_/)
